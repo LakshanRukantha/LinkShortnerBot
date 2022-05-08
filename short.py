@@ -3,7 +3,7 @@ import json
 from pprint import pprint
 import time
 import requests
-key = 'aff31d261c1dac351fe3c354f233d06d706c1'
+key = '{ENTER YOUR API KEY}'
 link = input('Enter the link you want to short : ')
 time.sleep(0.5)
 print("Checking Your URL...")
